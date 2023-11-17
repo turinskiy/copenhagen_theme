@@ -63,10 +63,10 @@
       "label": "test_group_label",
       "variables": [
         {
-          "identifier": "brand_color",
+          "identifier": "test_brand_color",
           "type": "color",
-          "description": "brand_color_description",
-          "label": "brand_color_label",
+          "description": "test_brand_color_description",
+          "label": "test_brand_color_label",
           "value": "#17494D"
         }
       ]
